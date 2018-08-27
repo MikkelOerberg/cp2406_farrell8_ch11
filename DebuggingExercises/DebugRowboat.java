@@ -1,8 +1,12 @@
+package DebuggingExercises;
+
 public class DebugRowboat extends DebugBoat
 {
    public DebugRowboat()
    {
       super("row");
+      setPassengers();
+      setPower();
    }
    public void setPassengers()
    {

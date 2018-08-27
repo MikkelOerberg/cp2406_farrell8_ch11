@@ -1,3 +1,5 @@
+package DebuggingExercises;
+
 public abstract class DebugBoat
 {
    String boatType = new String();
